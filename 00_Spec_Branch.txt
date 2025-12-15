@@ -1,0 +1,123 @@
+BRANCH_ID|BRANCH_NAME|COUNTRY_CODE
+55|Citibank UK BR3429|GB
+56|CAB BR002|AF
+57|AIB BR3829|AF
+58|BNP BR3129|FR
+59|KBC BR3082|AF
+60|BOR BR94839|RU
+61|Arab Banking Corp BR94839|DZ
+62|Central Bank of Equador BR2839|EC
+63|National Bank of Ethiopia BR2839|ET
+64|National Bank of Harare|ZW
+65|National Bank of Yemen|YE
+66|National Bank of Indonesia|ID
+1|Beo Bank NV/SA|BE
+2|Intesa Sanpaolo SPA|IT
+3|Banco Popular Madrid|ES
+4|Erste Bank|AT
+5|DNB Bank Sverige|SE
+6|Morabanc HO|AD
+8|Deutsche Fra HO|DE
+9|Rasheed Bank|IQ
+10|BOA SFO|US
+11|BOA Miami|US
+12|BOA NY|US
+13|Energy Settlements|US
+14|JMPC Private Bank|AD
+15|Wells Fargo ID|US
+16|Wells Fargo Charlotte|US
+17|Banca de Mexico|MX
+18|Banca Affirme|MX
+19|Toronto 180|CA
+20|Accu Rate Corp Branch|CA
+21|ABN AMRO Santiago|CL
+22|Banco Central de Chile A1|CL
+7|BRANCH 0007|FR
+BR_AF011|BRANCH AF011|FR
+BR_AF012|BRANCH AF012|FR
+BR_AF013|BRANCH AF013|FR
+BR_AF021|BRANCH AF021|FR
+BR_AF022|BRANCH AF022|FR
+BR_AF023|BRANCH AF023|FR
+BR_AF031|BRANCH AF011|FR
+BR_AF032|BRANCH AF012|FR
+BR_AF033|BRANCH AF013|FR
+BR_AF041|BRANCH AF021|FR
+BR_AF042|BRANCH AF022|FR
+BR_AF043|BRANCH AF023|FR
+BR_ND|BRANCH ND|FR
+DUMMYBRAID|DUMMY|VU
+BRANCH_ID|NAME|AZ
+BRANCH_ID_UP|NAME|AZ
+BR100|Etiam Street|US
+BR101|Condimentum Rd.|US
+BR102|Dolor, Av.|US
+BR103|Quam. Avenue|US
+BR104|Nulla. Av.|US
+BR105|Leo. St.|US
+BR106|Urna. Avenue|US
+BR107|Morbi Rd.|US
+BR108|Facilisis Av.|US
+BR109|Austin Rd.|US
+BR110|Phasellus Road|US
+BR111|Mollis Ave|US
+BR112|Ridiculus Av.|US
+BR113|Vel Road|US
+BR114|Curabitur Rd.|US
+BR115|Arcu. St.|US
+BR116|Sed, Street|US
+BR117|Nec St.|US
+BR118|Velit Avenue|US
+BR119|Risus. Rd.|US
+BR120|Eleifend, Rd.|US
+BR121|Vel Rd.|US
+BR122|Placerat, Rd.|US
+BR123|Dignissim St.|US
+BR124|Eu Street|US
+BR125|Risus, Av.|US
+BR126|Est Rd.|US
+BR127|Tellus Av.|US
+BR128|Quis Avenue|US
+BR129|Aliquam Ave|US
+BR130|Leon Rd.|US
+BR131|Nullam Ave|US
+BR132|Pellentesque Street|US
+BR133|Massa Road|US
+BR134|Dictum Av.|US
+BR135|Rutrum Rd.|US
+BR136|Aliquam Rd.|US
+BR137|Neque Avenue|US
+BR138|Mauris Av.|US
+BR139|Urna. Road|US
+23|BC Peru B1|PE
+24|Banco NOR Peru|PE
+25|Banca Nacion B1|PE
+26|Banco Goldmine|BR
+27|Banco BVA|BR
+28|Banco de Commercio|PE
+29|Banco de Bogota B1|CO
+30|Banco de Bogota B2|CO
+31|SBI Nehru Place|IN
+32|SBI Vasant Vihar|IN
+33|Citibank Delhi|IN
+34|Bank of China Chengdu|CN
+35|Shanghai Branch|CN
+36|Jilin City Branch|CN
+37|Kiwi Wellington|NZ
+38|Bank of New Zealand Auckland|NZ
+39|Bank of NZ B2|NZ
+40|Yoma Bank|MM
+41|Union Of Burma Bank|MM
+42|NBA Sydney Branch|AU
+43|NBA Brisbane|AU
+44|Citibank Karachi|PK
+45|NBP Pesh|PK
+46|Al Arafah Dhaka|BD
+47|Bangladesh Bank Dhaka|BD
+48|HSBC Dublin 01|IE
+49|HSBC Dublin 02|IE
+50|Citibank Dublin 01|IE
+51|Citibank Dublin 02|IE
+52|Our Bank Guildford 91|GB
+53|Our Bank London 92|GB
+54|HSBC UK Br0038|GB

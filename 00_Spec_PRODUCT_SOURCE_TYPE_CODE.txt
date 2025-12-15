@@ -1,0 +1,32 @@
+PRODUCT_SOURCE_TYPE_CODE|PRODUCT_SOURCE_TYPE_DESC|PRODUCT_ID
+0001|Basic|AT0001
+0002|Business|AT0002
+0003|Cheque/Check|AT0003
+0004|Current|AT0004
+0005|Currency|AT0005
+0006|Graduate|AT0006
+0007|Loan|AT0007
+0008|Mortgage|AT0008
+0009|Other|AT0009
+0010|Premier Current|AT0010
+0011|Savings|AT0011
+0012|Student|AT0012
+0013|Unknown|AT0013
+0014|Young Adult|AT0014
+0015|Young Persons|AT0015
+0016|Card|AT0016
+0017|Insurance|AT0017
+0018|Investment|AT0018
+0019|Unit Trust|AT0019
+0020|Time Deposit|AT0020
+0021|Trust|AT0021
+1001|Vostro|AT1001
+PRD001|Current bank account|PRD001
+PRD002|Time deposit|PRD002
+PRD003|Securities|PRD003
+PRD004|Credit Cards / Revolving|PRD004
+PRD005|Car credit/leasing to final customer|PRD005
+PRD006|Car/spare part credit to dealer|PRD006
+PRD007|Long / Medium term credit|PRD007
+PRD008|Other short term credit|PRD008
+PRD009|Others|PRD009

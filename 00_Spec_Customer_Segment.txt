@@ -1,0 +1,4 @@
+CODE|DESCRIPTION
+PERS|Individual
+SME|Small Medium Enterprise
+CORP|Corporation

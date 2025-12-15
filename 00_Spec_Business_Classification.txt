@@ -1,0 +1,206 @@
+BUSINESS_CLASSIFICATION_CODE|BUSINESS_CLASSIFICATION_DESC
+721|Accommodation
+5412|Accounting, Tax Preparation, Bookkeeping, and Payroll Services
+5223|Activities Related to Credit Intermediation
+5313|Activities Related to Real Estate
+64303|Activities of venture and development capital companies
+926|Administration of Economic Programs
+924|Administration of Environmental Quality Programs
+925|Administration of Housing Programs, Urban Planning, and Community Development
+923|Administration of Human Resource Programs
+541611|Administrative Management and General Management Consulting Services
+561|Administrative and Support Services
+5418|Advertising, Public Relations, and Related Services
+5242|Agencies, Brokerages, and Other Insurance Related Activities
+481|Air Transportation
+621|Ambulatory Health Care Services
+7131|Amusement Parks and Arcades
+713|Amusement, Gambling, and Recreation Industries
+112|Animal Production
+315|Apparel Manufacturing
+4243|Apparel, Piece Goods, and Notions Merchant Wholesalers
+5413|Architectural, Engineering, and Related Services
+4411|Automobile Dealers
+5321|Automotive Equipment Rental and Leasing
+4413|Automotive Parts, Accessories, and Tire Stores
+4248|Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers
+312|Beverage and Tobacco Product Manufacturing
+515|Broadcasting (except Internet)
+444|Building Material and Garden Equipment and Supplies Dealers
+8139|Business, Professional, Labor, Political, and Similar Organizations
+68100|Buying and selling of own real estate
+325|Chemical Manufacturing
+4246|Chemical and Allied Products Merchant Wholesalers
+8134|Civic and Social Organizations
+4481|Clothing Stores
+448|Clothing and Clothing Accessories Stores
+5324|Commercial and Industrial Machinery and Equipment Rental and Leasing
+6233|Community Care Facilities for the Elderly
+5415|Computer Systems Design and Related Services
+334|Computer and Electronic Product Manufacturing
+236|Construction of Buildings
+5322|Consumer Goods Rental
+4921|Couriers and Express Delivery Services
+492|Couriers and Messengers
+522|Credit Intermediation and Related Activities
+111|Crop Production
+518|Data Processing, Hosting and Related Services
+5221|Depository Credit Intermediation
+4543|Direct Selling Establishments
+35130|Distribution of electricity
+99999|Dormant Company
+4242|Drugs and Druggists' Sundries Merchant Wholesalers
+611|Educational Services
+335|Electrical Equipment, Appliance, and Component Manufacturing
+4236|Electrical and Electronic Goods Merchant Wholesalers
+4541|Electronic Shopping and Mail-Order Houses
+443|Electronics and Appliance Stores
+921|Executive, Legislative, and Other General Government Support
+332|Fabricated Metal Product Manufacturing
+4245|Farm Product Raw Material Merchant Wholesalers
+114|Fishing, Hunting and Trapping
+311|Food Manufacturing
+722|Food Services and Drinking Places
+445|Food and Beverage Stores
+113|Forestry and Logging
+51210|Freight air transport
+525|Funds, Trusts, and Other Financial Vehicles
+4232|Furniture and Home Furnishing Merchant Wholesalers
+442|Furniture and Home Furnishings Stores
+337|Furniture and Related Product Manufacturing
+7132|Gambling Industries
+447|Gasoline Stations
+6221|General Medical and Surgical Hospitals
+452|General Merchandise Stores
+5323|General Rental Centers
+8132|Grantmaking and Giving Services
+4244|Grocery and Related Product Merchant Wholesalers
+4237|Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers
+446|Health and Personal Care Stores
+237|Heavy and Civil Engineering Construction
+6216|Home Health Care Services
+622|Hospitals
+5241|Insurance Carriers
+524|Insurance Carriers and Related Activities
+5251|Insurance and Employee Benefit Funds
+4483|Jewelry, Luggage, and Leather Goods Stores
+922|Justice, Public Order, and Safety Activities
+316|Leather and Allied Product Manufacturing
+5411|Legal Services
+533|Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+5311|Lessors of Real Estate
+4922|Local Messengers and Local Delivery
+4233|Lumber and Other Construction Materials Merchant Wholesalers
+333|Machinery Manufacturing
+4238|Machinery, Equipment, and Supplies Merchant Wholesalers
+551|Management of Companies and Enterprises
+5416|Management, Scientific, and Technical Consulting Services
+32300|Manufacture of sports goods
+12000|Manufacture of tobacco products
+6215|Medical and Diagnostic Laboratories
+423|Merchant Wholesalers, Durable Goods
+424|Merchant Wholesalers, Nondurable Goods
+4235|Metal and Mineral (except Petroleum) Merchant Wholesalers
+212|Mining (except Oil and Gas)
+4239|Miscellaneous Durable Goods Merchant Wholesalers
+339|Miscellaneous Manufacturing
+4249|Miscellaneous Nondurable Goods Merchant Wholesalers
+453|Miscellaneous Store Retailers
+521|Monetary Authorities-Central Bank
+52231|Mortgage and nonmortgage loan brokers
+512|Motion Picture and Sound Recording Industries
+4231|Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers
+441|Motor Vehicle and Parts Dealers
+712|Museums, Historical Sites, and Similar Institutions
+928|National Security and International Affairs
+7499|Non-trading Company
+327|Nonmetallic Mineral Product Manufacturing
+454|Nonstore Retailers
+6231|Nursing Care Facilities
+623|Nursing and Residential Care Facilities
+6212|Offices of Dentists
+6213|Offices of Other Health Practitioners
+6211|Offices of Physicians
+5312|Offices of Real Estate Agents and Brokers
+211|Oil and Gas Extraction
+93110|Operation of sports facilities
+6219|Other Ambulatory Health Care Services
+7139|Other Amusement and Recreation Industries
+5239|Other Financial Investment Activities
+519|Other Information Services
+5259|Other Investment Pools and Funds
+4412|Other Motor Vehicle Dealers
+4869|Other Pipeline Transportation
+5419|Other Professional, Scientific, and Technical Services
+6239|Other Residential Care Facilities
+5179|Other Telecommunications
+74909|Other professional, scientific and technical activities not elsewhere classified
+6214|Outpatient Care Centers
+322|Paper Manufacturing
+4241|Paper and Paper Product Merchant Wholesalers
+711|Performing Arts, Spectator Sports, and Related Industries
+812|Personal and Laundry Services
+324|Petroleum and Coal Products Manufacturing
+4247|Petroleum and Petroleum Products Merchant Wholesalers
+486|Pipeline Transportation
+4861|Pipeline Transportation of Crude Oil
+4862|Pipeline Transportation of Natural Gas
+326|Plastics and Rubber Products Manufacturing
+491|Postal Service
+331|Primary Metal Manufacturing
+323|Printing and Related Support Activities
+814|Private Households
+4234|Professional and Commercial Equipment and Supplies Merchant Wholesalers
+541|Professional, Scientific, and Technical Services
+6222|Psychiatric and Substance Abuse Hospitals
+70210|Public relations and communications activities
+511|Publishing Industries (except Internet)
+482|Rail Transportation
+01420|Raising of other cattle and buffaloes
+531|Real Estate
+8131|Religious Organizations
+813|Religious, Grantmaking, Civic, Professional, and Similar Organizations
+532|Rental and Leasing Services
+811|Repair and Maintenance
+6232|Residential Mental Retardation, Mental Health and Substance Abuse Facilities
+45400|Sale, maintenance and repair of motorcycles and related parts and accessories
+5174|Satellite Telecommunications
+487|Scenic and Sightseeing Transportation
+5417|Scientific Research and Development Services
+5231|Securities and Commodity Contracts Intermediation and Brokerage
+5232|Securities and Commodity Exchanges
+523|Securities, Commodity Contracts, and Other Financial Investments and Related Activities
+4482|Shoe Stores
+8133|Social Advocacy Organizations
+624|Social Assistance
+927|Space Research and Technology
+5414|Specialized Design Services
+6223|Specialty (except Psychiatric and Substance Abuse) Hospitals
+238|Specialty Trade Contractors
+451|Sporting Goods, Hobby, Book, and Music Stores
+115|Support Activities for Agriculture and Forestry
+213|Support Activities for Mining
+488|Support Activities for Transportation
+56103|Take-away food shops and mobile food stands
+517|Telecommunications
+99111|Test data 1
+99112|Test data 2
+99113|Test data 3
+99114|Test data 4
+99115|Test data 5
+313|Textile Mills
+314|Textile Product Mills
+485|Transit and Ground Passenger Transportation
+336|Transportation Equipment Manufacturing
+79110|Travel agency activities
+484|Truck Transportation
+221|Utilities
+4542|Vending Machine Operators
+493|Warehousing and Storage
+562|Waste Management and Remediation Services
+483|Water Transportation
+425|Wholesale Electronic Markets and Agents and Brokers
+45310|Wholesale trade of motor vehicle parts and accessories
+5171|Wired Telecommunications Carriers
+5172|Wireless Telecommunications Carriers (except Satellite)
+321|Wood Product Manufacturing
