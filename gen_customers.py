@@ -104,7 +104,11 @@ class CustomerGenerator(BaseGenerator):
         email = self._generate_smart_email(first_name, last_name, legal_name, is_company)
         
         # 4. Phone Details
-        phone_country = self.phone_codes.get(country_code, '1')
+        # First check for explicit phone_country_code, then fall back to country of residence
+        phone_country = (
+            profile.get('phone_country_code') or
+            self.phone_codes.get(country_code, '1')
+        )
         phone_area = f"{random.randint(10, 999):03d}"
         phone_num = f"{random.randint(1000000, 9999999)}"
         phone_ext = ""
